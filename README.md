@@ -1,2 +1,3 @@
 # SureTaste
-My CS50 final project
+#### Video Demo:  https://studio.youtube.com/video/0BtmacpIwrw/edit
+#### Description:
