@@ -1,5 +1,5 @@
 # SureTaste
-### Video Demo:  https://studio.youtube.com/video/0BtmacpIwrw/edit
+### Video Demo:  https://www.youtube.com/watch?v=0BtmacpIwrw
 -------------------------------------------------------------------
 ## Description
 
